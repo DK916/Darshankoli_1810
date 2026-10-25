@@ -1,0 +1,5 @@
+h1 = Hr(7,"Harman",50000,5000)
+# d1 = Developer(63,"Surya",70000,10000)
+# # e1.display()
+# h1.display()
+# d1.display()
